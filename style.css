@@ -12,6 +12,7 @@ font-family: "Nunito Sans", sans-serif;
 header{
     background-color:#333333;
     height: 85px;
+    display: flex;
 
 }
 main{
@@ -29,4 +30,12 @@ a{
     text-decoration: none;
     color: white;
     font-size: 20p;
+    
+}
+footer{
+    width: 100%;
+    text-align: center;
+    padding: 30px;
+    
+
 }
