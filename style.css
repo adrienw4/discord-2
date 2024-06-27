@@ -1,0 +1,32 @@
+body{
+    background-image:url(./bg-discord.png) ;
+    @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
+
+font-family: "Nunito Sans", sans-serif;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+header{
+    background-color:#333333;
+    height: 85px;
+
+}
+main{
+    width: 90%;
+    background-color: brown;
+    margin: auto;
+    border-radius: 25px;
+}
+h1{
+    color: white;
+    padding: 20px;
+    text-transform: uppercase;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 20p;
+}
